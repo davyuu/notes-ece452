@@ -1,3 +1,5 @@
+# 3B
+
 ## Why is design needed
 - hardest part of design is deciding what to design
 - needed t ocommunicate high level ideas
@@ -42,4 +44,3 @@
 - to translate requiremtns into deliverable
 - uncovering requirements
 - recognising options
--
